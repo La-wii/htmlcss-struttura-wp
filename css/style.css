@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* inizio container */
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: aqua;
+}
+
+/* inizio header */
+header{
+    height: 100px;
+    background-color: rgb(230, 121, 230);
+    margin: 20px 0 20px;
+}
