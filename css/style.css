@@ -23,3 +23,38 @@ header{
     background-color: rgb(225, 214, 122);
     margin-bottom: 20px;
 }
+
+/* top content */
+.top-content{
+    height: 100px;
+    background-color: rgb(171, 207, 231);
+}
+
+/* left-column */
+.left-column{
+    height: 400px;
+    width: 25%;
+    margin-top: 20px;
+    background-color: rgb(171, 207, 231);
+    float: left;
+}
+
+/* middle-column */
+.middle-column{
+    height: 400px;
+    width: 46%;
+    margin-top: 20px;
+    margin-right: 2%;
+    margin-left: 2%;
+    background-color: rgb(171, 207, 231);
+    float: left;
+    
+}
+
+/* right-column */
+.right-column{
+    height: 400px;
+    width: 25%;
+    margin-top: 20px;
+    background-color: rgb(171, 207, 231);
+    float: left;
